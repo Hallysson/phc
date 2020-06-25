@@ -1,0 +1,31 @@
+html{
+	background-color: black;
+	background-image: url("imagens/templario1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+}
+
+#formulario{
+	width: 500px;
+	height: 270px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -250px;
+	margin-top: -135px;
+	font-size: 30px;
+
+	filter:alpha(opacity=70);
+	opacity: 0.7;
+	-moz-opacity:0.7;
+	-webkit-opacity:0.7;
+}
+
+#formulario input{
+	font-size: 30px;
+}
+
+#entrar{
+	width: 100%;
+}

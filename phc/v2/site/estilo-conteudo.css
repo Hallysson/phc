@@ -1,0 +1,11 @@
+#area-menu{
+	position: absolute;
+}
+
+#area-conteudo{
+  overflow: auto;
+  background-color: #2e353d;
+  margin-left: 312px;
+  color: grey;
+  z-index: -1;
+}
